@@ -33,10 +33,10 @@ Bullshit.KeyDown:Connect(function(SayNoToOblivity)
         pcall(function()
             if PastedSources == false then
                 PastedSources = true
-                print("Enabled P1000")
+                print("Enabled Desync :P")
             elseif PastedSources == true then
                 PastedSources = false
-                print("Disabled P1000")
+                print("Disabled Desync :P")
             end
         end)
     end
